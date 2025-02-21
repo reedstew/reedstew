@@ -55,6 +55,7 @@ I have been in the code space for 3 years after greatly enjoying my initial expo
     </a>
 </p>
 <b>My GitHub Stats</b>
+<br>
 <a href="http://www.github.com/reedstew">
   <img src="https://github-readme-stats.vercel.app/api?username=reedstew&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="reedstew's GitHub stats" />
 </a>
